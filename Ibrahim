@@ -1,0 +1,8 @@
+Commiting
+git commit -m "Specific Changes Made" = commits the staging area giving them a specific id
+
+git log = shows all the commits with details
+
+git log --oneline = shows all the commits in one line each
+
+SPECIAL log : this will log the info in a nice format (Try it once 😉)
